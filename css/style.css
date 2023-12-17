@@ -1,0 +1,46 @@
+/* header */
+
+header {
+    width: 1440px;
+    margin: 0 auto;
+    background: #2A9D8F;
+    display: block;
+    padding: 38px 130px;
+}
+
+.navigation {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.header_logo {
+    background-color: #fff;
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 710px;
+}
+
+.header_logo img {
+    margin: 12px 13px;
+    width: 20px;
+    height: 22px;
+}
+
+
+header nav ul li {
+    display: inline-block;
+    vertical-align: middle;
+    list-style: none;
+    margin: 0 auto;
+    margin-left: 51px;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: #FFF;
+    font-family: 'Nerko One';
+    font-size: 20px;
+}
