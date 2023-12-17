@@ -139,3 +139,47 @@ article p {
     color: #fff;
     font-family: 'Poppins';
 }
+
+
+
+
+
+
+
+/* section2 */
+
+.section2 {
+    width: 1180px;
+    display: block;
+    margin: 200px auto;
+}
+
+.card-container {
+    display: block;
+    margin: 0 130px;
+}
+
+.card {
+    margin-left: 20px;
+    display: inline-block;
+
+}
+
+
+.card img {
+width: 438px;
+}
+
+.card p {
+    color: #535353;
+    font-family: 'Poppins';
+    font-size: 24px;
+    font-weight: 400px;
+    line-height: 36px;
+    letter-spacing: 0.12px;
+    width: 438px;
+    margin-top: 32px;
+}
+
+
+
