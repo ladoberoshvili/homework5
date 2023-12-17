@@ -183,3 +183,47 @@ width: 438px;
 
 
 
+
+
+
+/* footer */
+
+
+footer {
+    padding: 90px 130px;
+    background: #2A9D8F;
+}
+
+.footer-navigation {
+    display: inline-block;
+    margin-left: 800px;
+    vertical-align: middle;
+}
+
+footer h5 {
+    color: #FFF;
+    font-family: 'Poppins';
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    margin-bottom: 21px;
+}
+
+footer nav ul li {
+    list-style: none;
+    vertical-align: middle;
+}
+
+footer nav ul li a {
+    text-decoration: none;
+    color: #FFF;
+    font-family: 'Poppins';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    margin: 8px;
+    margin: 0 auto;
+}
+
+
+
