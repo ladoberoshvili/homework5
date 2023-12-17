@@ -44,3 +44,38 @@ header nav ul li a {
     font-family: 'Nerko One';
     font-size: 20px;
 }
+
+
+
+
+
+
+/* article */
+
+.first-article {
+    display: block;
+    width: 780px;
+    margin: 200px auto;
+}
+
+h2 {
+    font-family: 'Poppins';
+    color: #4D4D4D;
+    font-size: 48px;
+    font-weight: 500;
+    letter-spacing: 0.24px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.first-article p {
+    color: #656565;
+    font-family: 'Nerko One';
+    font-size: 20px;
+    line-height: 150%;
+    margin-bottom: 52px;
+}
+
+.article-body {
+    width: 100%;
+}
